@@ -27,7 +27,7 @@ After clikcing the side menu
 
 - Contact page used a fade in effects from JQuery to show the contact cards
 
-![](/image/contactspage.PNG)
+![](/image/contactpage.PNG)
 
 * One external link for LinkedIn
 
