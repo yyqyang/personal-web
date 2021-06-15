@@ -1,6 +1,6 @@
 # PersonalWebsite-YuqingYang
 
-## components introduction
+## Components introduction
 
 This personal web contains:
 
@@ -8,26 +8,26 @@ This personal web contains:
 
 Before clicking the side menu on the top left corner
 
-![](image/landing page.PNG)
+![](/image/landing page.PNG)
 
 After clikcing the side menu
 
-![](image/landing page with navi.PNG)
+![](/image/landing page with navi.PNG)
 
 
 * Three internal links includes background page, experience page and contact page
 
 - Background page used a splited layout in CSS to seperate the screen into two parts and it also has two buttons to navigate to the previous page (home page) to the next page (experience)
 
-![](image/background page.PNG)
+![](/image/background page.PNG)
 
 - Experience page used a HTML table, with CSS styling. The columns of the table will be seperated equally with different screen size
 
-![](image/experience page.PNG)
+![](/image/experience page.PNG)
 
 - Contact page used a fade in effects from JQuery to show the contact cards
 
-![](image/contacts page.PNG)
+![](/image/contacts page.PNG)
 
 * One external link for LinkedIn
 
